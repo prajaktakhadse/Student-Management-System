@@ -8,13 +8,11 @@ This is an individual project which was an assignment of Company named Platform 
 
 # Tech Stack
 
-<ul>
+* Java
+* SpringBoot 
+* Spring Security
+*MYSQL
  
-<br>* Java.<br> 
-<br>* Spring Boot.<br> 
- <br>* Spring Data JPA.<br> 
-<br>* Hibernate.<br> 
- <br>* MySQL.<br> 
-<br>* Spring Security.<br> 
 
-</ul>
+
+
