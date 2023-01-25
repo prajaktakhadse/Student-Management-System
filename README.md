@@ -9,12 +9,12 @@ This is an individual project which was an assignment of Company named Platform 
 # Tech Stack
 
 <ul>
- ***
-* Java
-* Spring Boot
-* Spring Data JPA
-* Hibernate
-* MySQL
-* Spring Security
+ 
+Java,
+Spring Boot,
+ Spring Data JPA,
+Hibernate,
+ MySQL,
+Spring Security
 
 </ul>
