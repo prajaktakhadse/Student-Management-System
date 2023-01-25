@@ -9,9 +9,11 @@ This is an individual project which was an assignment of Company named Platform 
 # Tech Stack
 
 * Java
+* Hibernate
+* spring Data JPA
 * SpringBoot 
 * Spring Security
-*MYSQL
+* MYSQL
  
 
 
