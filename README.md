@@ -10,11 +10,11 @@ This is an individual project which was an assignment of Company named Platform 
 
 <ul>
  
-Java,
-Spring Boot,
- Spring Data JPA,
-Hibernate,
- MySQL,
-Spring Security
+<br>* Java.<br> 
+<br>* Spring Boot.<br> 
+ <br>* Spring Data JPA.<br> 
+<br>* Hibernate.<br> 
+ <br>* MySQL.<br> 
+<br>* Spring Security.<br> 
 
 </ul>
